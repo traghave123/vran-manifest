@@ -7,5 +7,5 @@ metadata:
 spec:
   channel: stable
   name: sriov-fec
-  source: certified-operators
+  source: vran-automation-certified-operator-catalog
   sourceNamespace: openshift-marketplace
